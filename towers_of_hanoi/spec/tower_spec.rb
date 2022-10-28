@@ -35,7 +35,7 @@ describe Game do
             [_, _]
             [_])
             end
-
+        end
 
     end
         
